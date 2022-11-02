@@ -1,0 +1,10 @@
+{
+    "resource": "/",
+    "path": "/square",
+    "httpMethod": "GET",
+    "requestContext": {
+    },
+    "queryStringParameters": {
+        "number": 5
+    }
+}
